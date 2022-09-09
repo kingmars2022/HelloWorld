@@ -1,6 +1,6 @@
 public class demo01 {
     public static void main(String[] args) {
-        String 王者荣耀 ="最强王者";
+        String 王者荣耀 ="最强王者1";
         System.out.println("最强王者");
 
 
